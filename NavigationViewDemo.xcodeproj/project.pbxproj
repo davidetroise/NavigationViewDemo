@@ -11,6 +11,7 @@
 		1724C3A828C7B0380026CB75 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1724C3A728C7B0380026CB75 /* ContentView.swift */; };
 		1724C3AA28C7B03D0026CB75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1724C3A928C7B03D0026CB75 /* Assets.xcassets */; };
 		1724C3AD28C7B03D0026CB75 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1724C3AC28C7B03D0026CB75 /* Preview Assets.xcassets */; };
+		1724C3B828C7BD160026CB75 /* AnimalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1724C3B728C7BD160026CB75 /* AnimalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1724C3A728C7B0380026CB75 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1724C3A928C7B03D0026CB75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1724C3AC28C7B03D0026CB75 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1724C3B728C7BD160026CB75 /* AnimalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1724C3A528C7B0380026CB75 /* NavigationViewDemoApp.swift */,
 				1724C3A728C7B0380026CB75 /* ContentView.swift */,
+				1724C3B728C7BD160026CB75 /* AnimalView.swift */,
 				1724C3A928C7B03D0026CB75 /* Assets.xcassets */,
 				1724C3AB28C7B03D0026CB75 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1724C3B828C7BD160026CB75 /* AnimalView.swift in Sources */,
 				1724C3A828C7B0380026CB75 /* ContentView.swift in Sources */,
 				1724C3A628C7B0380026CB75 /* NavigationViewDemoApp.swift in Sources */,
 			);
